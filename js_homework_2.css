@@ -1,0 +1,11 @@
+/* .my-list li {
+    text-decoration: line-through;
+} */
+
+.my-list li:hover {
+    cursor: pointer;
+}
+
+.strike {
+    text-decoration: line-through;
+}
